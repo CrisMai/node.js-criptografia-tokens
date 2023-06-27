@@ -20,3 +20,10 @@ Cifras de Substituição: esse método criptográfico opera, como o próprio nom
 a partir da substituição de letras, pares ou grupos de letras em um sistema pré-estabelecido. 
 Em outras palavras, nas cifras de substituição, a mensagem continua na mesma ordem mas 
 as unidades de textos são alteradas. 
+
+
+Funções de Hash
+
+Funções de hash é como uma cifra, mas que apenas mistura a informação, não sendo um 
+processo reversível.
+Existem vários tipos de função de hash, como MD5, SHA1 e SHA-256.
