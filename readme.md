@@ -43,3 +43,12 @@ Encriptação Simétrica
 para descriptografar os dados. Isso significa que o remetente e o destinatário da 
 mensagem precisam compartilhar a mesma chave secreta para garantir a comunicação 
 segura.
+
+
+Encriptação Assimétrica
+
+A encriptação assimétrica é um método de criptografia que utiliza um par de chaves 
+diferentes: uma chave pública para encriptação e uma chave privada para descriptografia. 
+Ela oferece recursos adicionais de segurança e autenticação em comparação com a 
+encriptação simétrica, tornando-se uma escolha comum em muitos cenários de 
+segurança de dados.
