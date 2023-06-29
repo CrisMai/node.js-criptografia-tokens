@@ -52,3 +52,18 @@ diferentes: uma chave pública para encriptação e uma chave privada para descr
 Ela oferece recursos adicionais de segurança e autenticação em comparação com a 
 encriptação simétrica, tornando-se uma escolha comum em muitos cenários de 
 segurança de dados.
+
+
+Assinatura Digital
+
+Uma assinatura digital é um mecanismo criptográfico utilizado para verificar a 
+autenticidade, a integridade e a autoria de um documento ou mensagem eletrônica. 
+Ela fornece uma forma de garantir que o conteúdo de um documento não tenha sido 
+alterado após ter sido assinado e também permite verificar se o documento foi 
+realmente assinado pela pessoa ou entidade declarada como signatária.
+
+A assinatura digital utiliza técnicas de criptografia assimétrica, que envolvem 
+o uso de um par de chaves: uma chave privada e uma chave pública. A chave privada 
+é mantida em sigilo pelo proprietário e é usada para criar a assinatura digital, 
+enquanto a chave pública é divulgada publicamente e usada para verificar 
+a assinatura.
