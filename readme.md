@@ -67,3 +67,15 @@ o uso de um par de chaves: uma chave privada e uma chave pública. A chave priva
 é mantida em sigilo pelo proprietário e é usada para criar a assinatura digital, 
 enquanto a chave pública é divulgada publicamente e usada para verificar 
 a assinatura.
+
+
+Sessões e Tokens
+
+Sessão: Quantidade de tempo em que o usuário está autenticado e conectado a um 
+serviço ou um sistema.
+
+Token: Solução para gerar como se fosse uma hash de uma determinada informação 
+e enviado de volta para o usuário. O usuário apenas aguarda essa hash, não consegue 
+ler e não possui capacidade de utilizar. Quando o usuário for fazer uma requisição, 
+ele vai mandar esse token de volta e ao invés do servidor pesquisar e localizar esse ID, 
+ele simplesmente valida o token, ou seja, vai decifrar a informação.
