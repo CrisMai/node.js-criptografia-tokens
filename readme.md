@@ -81,7 +81,7 @@ ele vai mandar esse token de volta e ao invés do servidor pesquisar e localizar
 ele simplesmente valida o token, ou seja, vai decifrar a informação.
 
 
-Algoritmos criptográficos
+Algoritmos Criptográficos
 
 Algoritmos criptográficos são procedimentos matemáticos e lógicos que são usados 
 para cifrar e decifrar dados. Os algoritmos criptográficos desempenham um papel 
@@ -90,3 +90,15 @@ informações em sistemas de comunicação e armazenamento de dados.
 Eles são amplamente utilizados em diversas aplicações, como segurança de redes, 
 criptografia de dados em trânsito (como HTTPS) e em sistemas de autenticação 
 e assinatura digital.
+
+
+Ataques Criptográficos
+
+Ataques criptográficos são tentativas de comprometer a segurança de um sistema 
+criptográfico com o objetivo de obter informações protegidas ou explorar 
+vulnerabilidades no algoritmo criptográfico usado.
+Existem diferentes tipos de ataques criptográficos, cada um com suas próprias 
+características e objetivos. Alguns exemplos comuns são:
+-Ataques de força bruta;
+-Ataque de dicionário;
+-Ataque rainbow table.
