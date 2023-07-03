@@ -79,3 +79,14 @@ e enviado de volta para o usuário. O usuário apenas aguarda essa hash, não co
 ler e não possui capacidade de utilizar. Quando o usuário for fazer uma requisição, 
 ele vai mandar esse token de volta e ao invés do servidor pesquisar e localizar esse ID, 
 ele simplesmente valida o token, ou seja, vai decifrar a informação.
+
+
+Algoritmos criptográficos
+
+Algoritmos criptográficos são procedimentos matemáticos e lógicos que são usados 
+para cifrar e decifrar dados. Os algoritmos criptográficos desempenham um papel 
+fundamental na proteção da confidencialidade, integridade e autenticidade das 
+informações em sistemas de comunicação e armazenamento de dados. 
+Eles são amplamente utilizados em diversas aplicações, como segurança de redes, 
+criptografia de dados em trânsito (como HTTPS) e em sistemas de autenticação 
+e assinatura digital.
