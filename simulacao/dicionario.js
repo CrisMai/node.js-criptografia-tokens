@@ -23,7 +23,6 @@ class Usuario {
 
 const usuario = new Usuario('cris mai', 'senha123');
 
-
 const senhasComuns = ["senha", "123456", "senha123", "admin", "blink182",
 "meuAniversario", "senha123456", "brasil", "102030"]
 
