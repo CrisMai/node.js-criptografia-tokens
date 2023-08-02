@@ -5,10 +5,10 @@ const router = Router()
 
 router
     .post('/permissao', PermissaoController.cadastrar)
-    .get('/permissao')
-    .get('/permissao/:id')
-    .delete('/permissao/:id')
-    .put('/permissao/:id')
+    .get('/permissao', PermissaoController.buscarTodasPermissoes)
+    .get('/permissao/id/:id', PermissaoController.buscarPermissaoPorId)
+    .delete('/permissao/id/:id', PermissaoController.deletarPermissaoPorId)
+    .put('/permissao/id/:id', PermissaoController.editarPermissao)
 
 
 modules.exports = router
